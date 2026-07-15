@@ -24,11 +24,12 @@ header h1 {
  font-size: 36px;
  margin: 0 0 10px 0;
 }
+
 header p {
  font-size: 16px;
  opacity: 0.85;
  margin: 0;
-}
+} 
 /* ==========================================
 
  Conteúdo principal
